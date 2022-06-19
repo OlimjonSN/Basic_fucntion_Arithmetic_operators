@@ -3,4 +3,10 @@
 // two digits numbers will be given.
 // return the sum of the number’s digits.
 
-void main() {}
+void main() {
+  print(func(42));
+}
+
+func(number) {
+  return ((number % 10) + (number ~/ 10));
+}

@@ -3,3 +3,6 @@
 // Return the multiplication of a and b.
 
 void main() {}
+multiple(a, b) {
+  return a * b;
+}

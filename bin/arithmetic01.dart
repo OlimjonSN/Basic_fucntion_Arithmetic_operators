@@ -3,6 +3,7 @@
 // Create a parameter int type y of type int.
 // return sum of two parameters.
 
-void main() {
-
+void main() {}
+add(x, y) {
+  return x + y;
 }

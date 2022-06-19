@@ -3,3 +3,6 @@
 // Returns the remainder of a and b.
 
 void main() {}
+func(a, b) {
+  return a % b;
+}

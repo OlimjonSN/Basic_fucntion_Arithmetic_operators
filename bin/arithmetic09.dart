@@ -5,3 +5,6 @@
 // return the answer.
 
 void main() {}
+func(number) {
+  return number % 2;
+}

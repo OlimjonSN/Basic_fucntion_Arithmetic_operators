@@ -2,6 +2,7 @@
 // Create function arguments a and b of type int.
 // Returns the floor division of a and b.
 
-void main() {
-  
+void main() {}
+divide(a, b) {
+  return a ~/ b;
 }
